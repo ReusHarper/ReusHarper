@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Web Development
 - 📫 How to reach me @reusharper_7u7_
-- ⚡ Fun fact: I love traveling
+- ⚡ Fun fact: I love to travel
