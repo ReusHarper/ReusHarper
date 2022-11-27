@@ -87,8 +87,6 @@ I love building web apps & my favorites paradigms are the pattern Observer 👀 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reusharper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reusharper" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reusharper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reusharper" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reusharper&show_icons=true&locale=en&theme=tokyonight" alt="reusharper" /></p>
 
 <h3 align="left">Support:</h3>
