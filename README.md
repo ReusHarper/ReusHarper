@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate full stack developer web & mobile from Mexico 💻📱</h3>
 
