@@ -5,7 +5,7 @@ I love building web apps & my favorites paradigms are the pattern Observer 👀 
 
 #### 📩 Contact me: 
 <div align="center">
-    <a href="https://www.linkedin.com/in/mar%C3%ADa-m-b81bbb1b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/arturoeg/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%23181818?logo=linkedin&style=for-the-badge"/>
     </a>
     <a href="mailto:reusharper@comunidad.unam.mx" target="_blank">
